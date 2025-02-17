@@ -11,7 +11,7 @@ comments: false
 
 EN-US
 
-My name is Caio Teles Cunha, and I have been a computer science student at UFMG since 2020. I am passionate about technology, academia, and video games. I am very determined and love learning new things.
+My name is Caio Teles Cunha, and I have been a computer science student at UFMG since 2020. I am passionate about technology, gym, and video games. I am very determined and love learning new things.
 
 Practically throughout my entire undergraduate degree, I worked as a web developer, initially at Ijunior and later at Sydle. At the beginning of 2024, I realized that this was not the career path I wanted to pursue, so I decided to explore different areas of computer science to discover what interests me the most and to learn more about them. During this year, I participated in some research projects and spoke with several professors. I ultimately decided that I would like to work in the field of computer networks and cybersecurity. I also decided that I would like to pursue a master's degree after completing my undergraduate studies. Since then, as I believe that the best way to learn is by doing, I have been studying networking in greater depth and looking for an internship opportunity that can teach me, in practice, what a professional in this field does.
 
